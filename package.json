@@ -9,7 +9,7 @@
     "compile": "babel src --presets @babel/react --out-dir public",
     "watch": "babel src --presets @babel/react --out-dir public --watch --verbose"
   },
-  "author": "HsuanYu Liu",
+  "author": "Hemanth Sai",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^2.10.1",

@@ -1,18 +1,3 @@
-// const productDB = [
-//   {
-//     id: 1, Name: 'Blue Shirt',Price: '16.99', 
-//     Category: 'Shirts', Image: 'https://images.app.goo.gl/A1VVdgNYDBFprrow5',
-//   },
-//   {
-//     id: 2, Name: 'Logo Hat',Price: '12.99',
-//     Category: 'Accessories', Image: 'https://images.app.goo.gl/bBjLavbRvs7DJtpu8',
-//   },
-//   {
-//     id: 3, Name: 'Regular Fit Jeans',Price: '34.99',
-//     Category: 'Jeans', Image: 'https://images.app.goo.gl/ALG2aDEKpPxGV9137',
-//   },
-// ];
-
 const productDB =[];
 
 function productAdd(_, { product }) {
